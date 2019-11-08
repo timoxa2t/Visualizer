@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Visualizer\Visualizer\obj\Debug\Visualizer.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Visualizer\Visualizer\obj\Debug\Visualizer.Properties.Resources.resources
+C:\Users\admin\source\repos\Visualizer\Visualizer\obj\Debug\Visualizer.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Visualizer\Visualizer\bin\Debug\Visualizer.exe
+C:\Users\admin\source\repos\Visualizer\Visualizer\bin\Debug\Visualizer.pdb
+C:\Users\admin\source\repos\Visualizer\Visualizer\obj\Debug\Visualizer.exe
+C:\Users\admin\source\repos\Visualizer\Visualizer\obj\Debug\Visualizer.pdb
